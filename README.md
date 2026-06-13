@@ -28,12 +28,18 @@
 
 <!--PROJECTS-->
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Projects</h2>
-<a href="https://github.com/Minji12304/AgroGP.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Minji12304&repo=AgroGP&theme=onedark" />
-</a>    
+
+<a href="https://github.com/Minji12304/Crypto-Dimenfy.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Minji12304&repo=Crypto-Dimenfy&theme=onedark"/>
+</a>
+
 <a href="https://github.com/Minji12304/Smartproxy-y-form.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Minji12304&repo=Smartproxy-y-form&theme=onedark"/>
 </a>
+
+<a href="https://github.com/Minji12304/AgroGP.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Minji12304&repo=AgroGP&theme=onedark" />
+</a>    
 
 <br>
 
